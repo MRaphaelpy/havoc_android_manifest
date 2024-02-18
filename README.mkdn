@@ -6,7 +6,7 @@ Havoc-OS-Revived!
 
 # Initialize Local Repository #
 ```bash
-   repo init -u https://github.com/Havoc-OS-Revived/android_manifest.git -b eleven --git-lfs
+   repo init -u https://github.com/MRaphaelpy/havoc_android_manifest -b eleven --git-lfs
 ```
   
 # Syncing Repository # 
